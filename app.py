@@ -6,7 +6,7 @@ import gdown
 import os
 file_id='1leolmjb0jvwGscMbrVJ_vImY4aHqrsM4'
 url='https://drive.google.com/file/d/1leolmjb0jvwGscMbrVJ_vImY4aHqrsM4/view?usp=sharing'
-model_path='/Users/dexter/Desktop/AICTE-Internship-files-main/3.Potato Leaf Disease Detection/trained_plant_disease_model.keras'
+model_path='trained_plant_disease_model.keras'
 
 if not os.path.exists(model_path):
     st.warning("Downloading model from Google Drive....")
