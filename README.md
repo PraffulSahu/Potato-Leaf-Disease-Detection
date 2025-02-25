@@ -1,4 +1,5 @@
-# Potato-Leaf-Disease-Detection
+# Potato-Leaf-Disease-Detection | 🔗 **Live Demo:** [Potato Disease Detection Web App](https://potato-leaf-disease-detection0.streamlit.app/)
+
 
 Here's an attractive and well-structured **README.md** file for your **Potato Disease Detection System** project. It includes an overview, features, installation steps, usage instructions, and more to make your GitHub repository look professional.  
 
@@ -6,12 +7,10 @@ Let me know if you need any modifications! 🚀
 
 ---
 
-### **README.md**  
 
-```md
 # 🍂 Potato Disease Detection System  
 
-![Potato Disease Detection Banner](https://user-images.githubusercontent.com/your-username/banner-image.png)  
+<img src="https://github.com/user-attachments/assets/14247b14-6eb8-464a-a56d-ec5bbd70f7b4" alt="Potato Disease Detection" width="500">
 
 ## 🚀 Overview  
 
@@ -37,14 +36,14 @@ The **Potato Disease Detection System** is a Machine Learning-based project desi
 
 ## 📂 Dataset  
 
-We used the **PlantVillage dataset**, which contains annotated images of **potato leaf diseases**. It was preprocessed to enhance model accuracy.  
+We used the **dataset**, which contains annotated images of **potato leaf diseases**. It was preprocessed to enhance model accuracy.  
 
 ## 🔧 Installation  
 
 1️⃣ Clone this repository  
 ```bash
-git clone https://github.com/your-username/potato-disease-detection.git
-cd potato-disease-detection
+git clone https://github.com/PraffulSahu/Potato-Leaf-Disease-Detection.git
+cd Potato-Leaf-Disease-Detection
 ```  
 
 2️⃣ Install dependencies  
@@ -63,11 +62,14 @@ streamlit run app.py
 1️⃣ **Upload an image** of a potato leaf  
 2️⃣ The model analyzes the image using deep learning  
 3️⃣ **Get instant results**: Healthy, Early Blight, or Late Blight  
-4️⃣ Suggestions for disease control and prevention are provided  
+4️⃣ Suggestions for disease control and prevention are provided (future work)
 
 ## 🖼️ Demo  
 
-![App Demo GIF](https://user-images.githubusercontent.com/your-username/demo.gif)  
+
+![gif-maker](https://github.com/user-attachments/assets/10efc5bf-1b77-4e0b-bc55-a1fa5f7819da)
+
+  
 
 ## 📌 Future Enhancements  
 
@@ -90,14 +92,5 @@ If you found this project useful, **please star this repo** ⭐ and share it wit
 
 ---
 
-📬 **Contact:** [Your Email] | 🌍 **GitHub:** [Your Profile]  
-```
+📬 **Contact:** [praffulkumarsahu0@gmail.com] 
 
----
-
-This **README** is clean, structured, and visually appealing. It includes images, installation steps, usage instructions, and future work—perfect for GitHub.  
-
-Let me know if you need customization! 🚀🔥
-
-
-##https://potato-leaf-disease-detection0.streamlit.app/
