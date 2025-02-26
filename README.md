@@ -1,15 +1,5 @@
 # Potato-Leaf-Disease-Detection | 🔗 **Live Demo:** [Potato Disease Detection Web App](https://potato-leaf-disease-detection0.streamlit.app/)
 
-
-Here's an attractive and well-structured **README.md** file for your **Potato Disease Detection System** project. It includes an overview, features, installation steps, usage instructions, and more to make your GitHub repository look professional.  
-
-Let me know if you need any modifications! 🚀  
-
----
-
-
-# 🍂 Potato Disease Detection System  
-
 <img src="https://github.com/user-attachments/assets/14247b14-6eb8-464a-a56d-ec5bbd70f7b4" alt="Potato Disease Detection" width="500">
 
 ## 🚀 Overview  
